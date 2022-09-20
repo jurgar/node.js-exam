@@ -1,0 +1,7 @@
+PORT=3000
+MY_SQL_HOST=mysql-do-user-12392673-0.b.db.ondigitalocean.com
+MY_SQL_USER=doadmin
+MY_SQL_PASSWORD=AVNS_1fm5j1T63bKooENe6Mf
+MY_SQL_DATABASE=users_db
+MY_SQL_PORT=25060
+JWT_SECRET=betkas123
